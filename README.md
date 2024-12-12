@@ -7,8 +7,9 @@ Hi there! I'm a passionate web developer and designer with expertise in creating
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Computer Engineer GIF" width="400" />
-</p> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Life" width="400" />
+</p>
+
 
 - 🌐 **Web Developer:** Skilled in HTML, CSS, JavaScript, and modern frameworks like React.
 - 🎨 **UI/UX Designer:** Experienced in crafting designs on Figma to deliver intuitive and user-friendly experiences.
@@ -30,8 +31,8 @@ Hi there! I'm a passionate web developer and designer with expertise in creating
 ## 🛠 Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Life" width="400" />
-</p>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Computer Engineer GIF" width="400" />
+</p> 
 
 ### 🎵 [Spotify Web Clone](#)
 A Spotify-inspired web application built using React, showcasing playlists and music features.
