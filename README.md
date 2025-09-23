@@ -11,9 +11,9 @@ Hi there! I'm a passionate web developer and designer with expertise in creating
 </p>
 
 
-- 🌐 Web Developer: Skilled in HTML, CSS, JavaScript, and modern frameworks like React, Tailwind CSS, and Bootstrap.
+- 🌐 Web Developer: Skilled in HTML, CSS, JavaScript, and modern frameworks like React, Next js, Tailwind CSS, and Bootstrap.
 - 🎨 UI/UX Designer: Experienced in crafting designs on Figma to deliver intuitive and user-friendly experiences.
-- ⚙️ Back-End Enthusiast: Proficient in Node.js and MongoDB for building robust server-side applications and managing databases.
+- ⚙️ Back-End Enthusiast: Proficient in Node.js, SQL and MongoDB for building robust server-side applications and managing databases.
 - 💻 C++ and C Programmer: Well-versed in C++ and C for writing efficient, performance-driven code.
 - 🔥 Lifelong Learner: Always exploring new technologies and pushing my limits.
 
