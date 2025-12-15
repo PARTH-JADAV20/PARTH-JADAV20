@@ -2,52 +2,118 @@
 
 Hi there! I'm a passionate web developer and designer with expertise in creating stunning user interfaces and functional web applications. Here's a little about me:
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🧑‍💻 About Me
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Life" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real-World+Products;Problem+Solver+%7C+System+Thinker" />
 </p>
 
 
-- 🌐 Web Developer: Skilled in HTML, CSS, JavaScript, and modern frameworks like React, Next js, Tailwind CSS, and Bootstrap.
-- 🎨 UI/UX Designer: Experienced in crafting designs on Figma to deliver intuitive and user-friendly experiences.
-- ⚙️ Back-End Enthusiast: Proficient in Node.js, SQL and MongoDB for building robust server-side applications and managing databases.
-- 💻 C++ and C Programmer: Well-versed in C++ and C for writing efficient, performance-driven code.
-- 🔥 Lifelong Learner: Always exploring new technologies and pushing my limits.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Life" width="400" />
+</p>
 
----
+
+- 🌐 **Full-Stack Web Developer**: Building modern, scalable web apps using **HTML, CSS, JavaScript, React, Next.js, Angular**, with **Tailwind CSS**.
+- ⚙️ **Back-End & API Developer**: Creating secure, efficient server-side systems with **Node.js, Express**, **REST APIs**, and databases like **MongoDB, MySQL & PostgreSQL**.
+- 🎨 **UI/UX Designer**: Designing intuitive, user-centric interfaces in **Figma** and translating them into polished UIs.
+- 💻 **Programmer & Problem Solver**: Strong in **C++, C, and Java**, with hands-on **DSA and algorithmic thinking**.
+- 🔥 **Continuous Learner**: Passionate about real-world projects, system design, and scaling ideas into impactful products.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🚀 Skills
 
-- **Frontend Development:** React, HTML, CSS, JavaScript
-- **Backend Development:** Node.js
-- **Programming Languages:** C
-- **Design Tools:** Figma
+- **Frontend Development:** React, Next Js, HTML, CSS, JavaScript
+- **Backend Development:** Node.js, Express, Restful Api, JWT
+- **DataBase:** MongoDb, MySQL, PostgreSQL, Redis
+- **Programming Languages:** C, C++, Java
+- **Design Tools:** Figma, Canva
 - **Version Control:** Git, GitHub
+- **Deployment Tools:** Render, Netlify, Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mongodb,mysql,postgres,redis,java,cpp,c,git,github,figma,vercel,netlify&theme=dark" />
+</p>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🛠 Projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Computer Engineer GIF" width="400" />
-</p> 
-
-### 🎵 [Spotify Web Clone](#)
-A Spotify-inspired web application built using React, showcasing playlists and music features.
-
-### 📺 [YouTube Clone](#)
-A functional YouTube clone with integrated YouTube API for video browsing, filtering, and playing.
-
-### 🛒 [Urban Company Clone](#)
-A replica of Urban Company's website built using HTML, CSS, and JavaScript, focusing on interactive design.
-
-### 🏍️ [Royal Enfield Web Project](#)
-A visually striking website dedicated to Royal Enfield enthusiasts, built to showcase products and services.
+</p>
 
 ---
+
+### 🥼 Outfits_of_joy
+Outfits of Joy is a clothing rental website that allows users to rent fashionable outfits for various occasions.
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+
+🔗 **Links:**  
+<a href="https://outfits-of-joy.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" width="25" />
+  Live Demo
+</a>&nbsp;|&nbsp;
+<a href="https://github.com/PARTH-JADAV20/outfits_of_joy" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" width="25" />
+  GitHub
+</a>
+
+### 🌾 FarmTrust
+FarmTrust is a full-stack agri-commerce platform connecting customers directly with verified organic farmers through real-time chat, AI assistance, and role-based dashboards.
+**Tech Stack:** React, Node.js, Express, MongoDB, Gemini API
+
+🔗 **Links:**  
+<a href="https://farm-trust-x-hackathon.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" width="25" />
+  Live Demo
+</a>&nbsp;|&nbsp;
+<a href="https://github.com/PARTH-JADAV20/FarmTrust-x-Hackathon" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" width="25" />
+  GitHub
+</a>
+
+### 🏗️ Business Pro
+A powerful full-stack web application built with React and Node.js tailored for construction businesses to manage inventory, sales, customers, expenses, and more — all from one dashboard.
+**Tech Stack:** React, Node.js, Express, MongoDB, FireBase Auth
+
+🔗 **Links:**  
+<a href="https://business-pro-app.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" width="25" />
+  Live Demo
+</a>&nbsp;|&nbsp;
+<a href="https://github.com/PARTH-JADAV20/business-pro" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" width="25" />
+  GitHub
+</a>
+
+### 📊 WealthGrove
+A full-stack Next.js application for browsing mutual funds, calculating returns, running SIP simulations, and visualizing investment growth.
+**Tech Stack:** Next.js, React, Material UI, Recharts, REST APIs
+
+🔗 **Links:**  
+<a href="https://sip-app-ten.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" width="25" />
+  Live Demo
+</a>&nbsp;|&nbsp;
+<a href="https://github.com/PARTH-JADAV20/SIP-APP" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" width="25" />
+  GitHub
+</a>
+
+### 🧩 Graspcheck
+A chrome extension that helps to check your grasp power after reading a article by generating questions based on the content of the article using Gemini API.
+**Tech Stack:** React, JavaScript, Chrome Extension APIs, Gemini API
+
+🔗 **Links:**  
+<a href="https://github.com/PARTH-JADAV20/graspcheck" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" width="25" />
+  GitHub
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -56,7 +122,7 @@ A visually striking website dedicated to Royal Enfield enthusiasts, built to sho
 ## 🖥️ Most Used Languages 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARTH-JADAV20&show_icons=true&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 📢 Connect With Me
 
@@ -64,6 +130,19 @@ A visually striking website dedicated to Royal Enfield enthusiasts, built to sho
 - 🐦 [Twitter](https://x.com/Parthjadav_2004)
 - ✉️ Email: parthjadav.cg@gmail.com
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+## 🎯 Why Me?
+- Strong full-stack fundamentals
+- Hands-on experience with real products
+- Comfortable with both SQL & NoSQL
+- Fast learner with system-level thinking
+- Problem Solver with unique thinking
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 😊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+
