@@ -117,10 +117,10 @@ A chrome extension that helps to check your grasp power after reading a article 
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-JADAV20&layout=compact&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)<br>
+[![Top Languages](https://parth-github-readme-stats.vercel.app/api/top-langs/?username=PARTH-JADAV20&layout=compact&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)<br>
 
 ## 🖥️ Most Used Languages 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARTH-JADAV20&show_icons=true&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)
+[![GitHub Stats](https://parth-github-readme-stats.vercel.app/api?username=PARTH-JADAV20&show_icons=true&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
