@@ -115,12 +115,24 @@ A chrome extension that helps to check your grasp power after reading a article 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
+## 📈 Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Jadav_Parth?theme=wtf&font=Joti%20One&ext=contest" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
 ## 📊 GitHub Stats
 
-[![Top Languages](https://parth-github-readme-stats.vercel.app/api/top-langs/?username=PARTH-JADAV20&layout=compact&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)<br>
+<p align="center">
+  <img src="https://parth-github-readme-stats.vercel.app/api/top-langs/?username=PARTH-JADAV20&layout=compact&theme=highcontrast&hide_border=true" />
+</p>
 
-## 🖥️ Most Used Languages 
-[![GitHub Stats](https://parth-github-readme-stats.vercel.app/api?username=PARTH-JADAV20&show_icons=true&theme=highcontrast&border_color=00000000)](https://github.com/PARTH-JADAV20)
+<p align="center">
+  <img src="https://parth-github-readme-stats.vercel.app/api?username=PARTH-JADAV20&show_icons=true&theme=highcontrast&hide_border=true" />
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
