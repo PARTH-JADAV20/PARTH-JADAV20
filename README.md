@@ -16,9 +16,10 @@ Hi there! I'm a passionate web developer and designer with expertise in creating
 
 
 - 🌐 **Full-Stack Web Developer**: Building modern, scalable web apps using **HTML, CSS, JavaScript, React, Next.js, Angular**, with **Tailwind CSS**.
-- ⚙️ **Back-End & API Developer**: Creating secure, efficient server-side systems with **Node.js, Express**, **REST APIs**, and databases like **MongoDB, MySQL & PostgreSQL**.
+- ⚙️ **Back-End & API Developer**: Creating secure, efficient server-side systems with **Node.js, Express, Django**, **REST APIs**, and databases like **MongoDB, MySQL & PostgreSQL**.
+- ☁️ **Cloud & DevOps**: Working with **AWS Cloud, Docker, Jenkins, and Kubernetes** for deployment, containerization, CI/CD, and application orchestration.
 - 🎨 **UI/UX Designer**: Designing intuitive, user-centric interfaces in **Figma** and translating them into polished UIs.
-- 💻 **Programmer & Problem Solver**: Strong in **C++, C, and Java**, with hands-on **DSA and algorithmic thinking**.
+- 💻 **Programmer & Problem Solver**: Strong in **C++, C, Java And Python**, with hands-on **DSA and algorithmic thinking**.
 - 🔥 **Continuous Learner**: Passionate about real-world projects, system design, and scaling ideas into impactful products.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
@@ -61,16 +62,16 @@ Outfits of Joy is a clothing rental website that allows users to rent fashionabl
   GitHub
 </a>
 
-### 🌾 FarmTrust
-FarmTrust is a full-stack agri-commerce platform connecting customers directly with verified organic farmers through real-time chat, AI assistance, and role-based dashboards.
-**Tech Stack:** React, Node.js, Express, MongoDB, Gemini API
+### 📝 PrepVerse
+PrepVerse is an AI-powered interview marketplace where candidates book mock interviews with experienced engineers, join live video sessions, receive AI-generated feedback, and manage interview history. Interviewers can publish their profile, set availability, conduct sessions, earn credits, and request withdrawals.
+**Tech Stack:** Next.js, Clerk, Google Gemini Ai, PostgreSQL, Prisma
 
 🔗 **Links:**  
-<a href="https://farm-trust-x-hackathon.vercel.app/" target="_blank">
+<a href="https://prepverse-mu.vercel.app/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" width="25" />
   Live Demo
 </a>&nbsp;|&nbsp;
-<a href="https://github.com/PARTH-JADAV20/FarmTrust-x-Hackathon" target="_blank">
+<a href="https://github.com/PARTH-JADAV20/PrepVerse" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000" width="25" />
   GitHub
 </a>
