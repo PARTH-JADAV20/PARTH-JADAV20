@@ -26,13 +26,15 @@ Hi there! I'm a passionate web developer and designer with expertise in creating
 
 ## 🚀 Skills
 
-- **Frontend Development:** React, Next Js, HTML, CSS, JavaScript
-- **Backend Development:** Node.js, Express, Restful Api, JWT
-- **DataBase:** MongoDb, MySQL, PostgreSQL, Redis
-- **Programming Languages:** C, C++, Java
+- **Frontend Development:** React, Next.js, HTML, CSS, JavaScript
+- **Backend Development:** Node.js, Express, Django, RESTful APIs, JWT
+- **Programming Languages:** Python, C, C++, Java
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins
 - **Design Tools:** Figma, Canva
 - **Version Control:** Git, GitHub
-- **Deployment Tools:** Render, Netlify, Vercel
+- **Deployment Tools:** Render, Netlify, Vercel, AWS
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mongodb,mysql,postgres,redis,java,cpp,c,git,github,figma,vercel,netlify&theme=dark" />
 </p>
